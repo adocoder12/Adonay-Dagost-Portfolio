@@ -268,7 +268,7 @@ button {
 }
 /* Animation */
 .animate {
-  animation-duration: 2.5s;
+  animation-duration: 1s;
   animation-name: animate-pop;
   animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
   animation-fill-mode: backwards;
