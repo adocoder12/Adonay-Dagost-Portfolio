@@ -153,8 +153,12 @@ button {
   cursor: pointer;
   text-transform: uppercase;
 }
+
+button >a {
+  text-decoration:none;
+}
 .btn-wrapper {
-  display: inline-table;
+  display: inline-flex;
   position: relative;
 }
 .btn-background {
