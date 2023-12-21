@@ -154,9 +154,7 @@ button {
   text-transform: uppercase;
 }
 
-button a {
-  text-decoration:none;
-}
+
 .btn-wrapper {
   display: inline-flex;
   position: relative;
