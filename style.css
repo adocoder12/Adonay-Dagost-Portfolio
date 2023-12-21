@@ -152,13 +152,13 @@ h4 {
   font-weight: 600;
   cursor: pointer;
   text-transform: uppercase;
-  text-decoration:none;
+  text-decoration: none;
 }
-
 
 .btn-wrapper {
   display: inline-flex;
   position: relative;
+  margin-right: 10px;
 }
 .btn-background {
   width: 100%;
